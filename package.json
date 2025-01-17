@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/luisc8487/create-node-js-command-line-tools#readme",
   "bin": {
-    "nls": "./index.js"
+    "nls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
   }
 }
