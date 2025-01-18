@@ -17,7 +17,7 @@ fs.readdir(targetDir, async (err, filenames) => {
     console.log(err);
   }
 const statPromises = filenames.map((filename) =>{
-  return lstat(filename);
+  return lstat(path.join(targetDir,filename));
 });
 const allStats = await Promise.all(statPromises);
 
