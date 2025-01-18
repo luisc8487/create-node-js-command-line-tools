@@ -56,3 +56,8 @@ This project was created to:
 - Practice using Node.js to build command line tools.
 - Explore JavaScript file system modules for directory operations.
 - Learn how to use external libraries like Chalk for enhancing terminal output.
+
+### dependencies
+
+- ![Node.js v22.13.0](https://nodejs.org/en)
+- ![Chalk v4.1.0](https://www.npmjs.com/package/chalk)
