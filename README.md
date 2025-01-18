@@ -57,7 +57,7 @@ This project was created to:
 - Explore JavaScript file system modules for directory operations.
 - Learn how to use external libraries like Chalk for enhancing terminal output.
 
-### dependencies
+### Dependencies
 
 - ![Node.js v22.13.0](https://nodejs.org/en)
 - ![Chalk v4.1.0](https://www.npmjs.com/package/chalk)
